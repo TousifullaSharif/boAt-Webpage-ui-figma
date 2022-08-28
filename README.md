@@ -3,5 +3,4 @@
 This is UI Design Project Using Figma Sofware
 </br>
 <h3>Screenshot</h3>
-<hr>
-![boAt Webpage UI](https://user-images.githubusercontent.com/89535903/187072697-e1693bbd-7fc6-4a89-8b53-43031c3d0ce9.png)
+![boAt Webpage UI](https://user-images.githubusercontent.com/89535903/187072782-a7a07c07-0751-43f9-99fe-5b1512a3642d.png)
